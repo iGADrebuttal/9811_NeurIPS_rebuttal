@@ -18,9 +18,9 @@
 
 # 3. The Updated Figure 3 (Experiments under random walk length > 8 nodes )
 
-**a. We add M (the number of learnable substructures) and n' (the size of learnable substructures) to the caption of Figure 3.**
+**a. We add M (the number of learnable substructures) and n' (the size of learnable substructures) to Figure 3.**
 
-**b. We add the experiment result under the bigger size of random walk (> 8 nodes)**
+**b. We add the experiment results under the bigger size of random walk (> 8 nodes)**
 
 
 ![image](Figure3.png)
