@@ -4,7 +4,7 @@
 
 **b. In step II, we add the node id to highlight which paths the light blue nodes refer to from the input graph $G_N$.**
 
-**c. We rewrite to caption of Figure 1 to make it easy to follow.**
+**c. We rewrite the caption of Figure 1 to make it easy to follow.**
 
 
 ![image](Figure1.png)
