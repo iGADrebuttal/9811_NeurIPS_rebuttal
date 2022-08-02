@@ -1,4 +1,4 @@
-# 9811_NeurIPS_rebuttal
+# NeurIPS_Rebuttal
 
 # 1. The Updated Figure 1
 
