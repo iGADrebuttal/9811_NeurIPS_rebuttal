@@ -24,4 +24,5 @@
 
 **b. We add the experiment result under the bigger size of random walk (> 8 nodes)**
 
+
 ![image](Figure3.png)
