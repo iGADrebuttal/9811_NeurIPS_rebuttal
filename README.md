@@ -6,3 +6,4 @@
 
 # The updated Table 2
 
+![image](Table2.png)
