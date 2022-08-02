@@ -1,4 +1,4 @@
-# NeurIPS_Rebuttal
+# NeurIPS_Rebuttal_iGAD
 
 # 1. The Updated Figure 1
 
