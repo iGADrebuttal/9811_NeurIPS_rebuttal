@@ -9,4 +9,4 @@
 ![image](Table2.png)
 
 # The updated Figure 3 (Experiments under random walk length >8 )
-
+![image](Figure3.pdf)
