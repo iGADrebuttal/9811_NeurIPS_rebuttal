@@ -1,12 +1,12 @@
 # 9811_NeurIPS_rebuttal
 
-# The updated Figure 1
+# <font color=red>The Updated Figure 1</font>
 
 ![image](Figure1.png)
 
-# The updated Table 2
+# The Updated Table 2
 
 ![image](Table2.png)
 
-# The updated Figure 3 (Experiments under random walk length >8 )
+# The Updated Figure 3 (Experiments under random walk length >8 )
 ![image](Figure3.png)
