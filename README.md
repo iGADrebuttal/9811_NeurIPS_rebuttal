@@ -1,5 +1,3 @@
-# NeurIPS_Rebuttal_iGAD
-
 # 1. The Updated Figure 1
 
 **a. We reorganize Figure 1. The step III appears behind steps I and II now.**
